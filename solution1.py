@@ -12,3 +12,5 @@ while a<max:
     a+=3
 
 print(sum(list1))
+
+
