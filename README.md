@@ -28,3 +28,4 @@ What is the largest prime factor of the number 600851475143 ?
 
 
 
+#ive collect some example that i had solve them by pyhton ,to save and show my pure python trying .
